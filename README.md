@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtx4o9o&label=Profile%20views&color=0e75b6&style=flat" alt="rtx4o9o" /> </p>
 
-- 🔭 I’m currently working on [Using Nano to Mine Servers](https://github.com/RTX4O9O/NanoMine)
+- 🔭 I’m currently working on [Newton Mod](https://github.com/RTX4O9O/Newton)
 
-- 🌱 I’m currently learning **Java Swing, LLM, Python**
+- 🌱 I’m currently learning **Java, LLM, Python, CPP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RTX4O9O?tab=repositories](https://github.com/RTX4O9O?tab=repositories)
+
+[https://github.com/Redths-gay-club?tab=repositories](https://github.com/Redths-gay-club?tab=repositories)
+
 
 - 📫 How to reach me **discord.gg/ZPtUgCnJ4w**
 
