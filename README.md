@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtx4o9o&label=Profile%20views&color=0e75b6&style=flat" alt="rtx4o9o" /> </p>
 
-- 🔭 I’m currently working on [UnstableFishingRod](github.com/RTX4O9O/MultiRodTrigger)
+- 🔭 I’m currently working on [RTXMaintenance](https://github.com/RTX4O9O/RTXMaintenance)
 
 - 🌱 I’m currently learning **Java, Python, CPP**
 
