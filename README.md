@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **discord.gg/ZPtUgCnJ4w**
 
-- ⚡ Fun fact **I use ChatGPT 🗿**
+- ⚡ Fun fact **I do vibe code 🗿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
