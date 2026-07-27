@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python, CPP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RTX4O9O?tab=repositories](https://github.com/RTX4O9O?tab=repositories) / [https://github.com/Redths-gay-club?tab=repositories](https://github.com/Redths-gay-club?tab=repositories)
+- 👨‍💻 All of my projects are available at [RTX4O9O](https://github.com/RTX4O9O?tab=repositories) / [Redth's Gay Club](https://github.com/Redths-gay-club?tab=repositories)
 
 
 - 📫 How to reach me **discord.gg/ZPtUgCnJ4w**
